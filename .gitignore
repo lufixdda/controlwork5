@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Django
+*.sqlite3
+db.sqlite3
+
+# IDE
+.vscode/
+.idea/
